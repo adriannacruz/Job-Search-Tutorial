@@ -1,35 +1,82 @@
 ---
 title: "Job Search Tutorial"
-author: "Adrianna Cruz and Renata Garcia Prieto Palacios Roji"
+author: "Adrianna, Renata, Paulina"
 date: "1/14/2021"
-output: powerpoint_presentation
+output: ioslides_presentation
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Job Search Tutorial
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+The purpose of this tutorial is to walk you through the steps of searching and applying for a job! 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+![]() # Picture here 
 
-## Slide with Bullets
+## Deciding what you want to do
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
 
-## Slide with R Output
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+## Updating your resume: Tailoring to each job application
 
-## Slide with Plot
 
-```{r pressure}
-plot(pressure)
-```
+
+
+## Skills and experiences 
+
+The skills and experiences displayed within your resume should be updated frequently. Important moments for updating your resume include at the end of each semester and upon completion of a project. This is because you may have developed and acquired new knowledge and skills during these experiences. Important experiences to update within your resume include class, research, and internships.
+
+## What to include
+
+Knowledge, Skills, and Abilities (KSAs) should be reflected through work descriptions within your resume. When tailoring your resume for an employer, try to embed keywords from the job description within your work experiences’ descriptions. 
+
+In your work descriptions…
+
++ Describe how you have used knowledge acquired from school in an applied setting  (e.g.,internship) to solve a problem, reach a goal, or be innovative.
++ Embed skills as keywords within the description of past work.
+    + For example: “Analyzed data in R and created visuals to present my findings.”
+This description demonstrates that you know how to use R, can analyze data, and can create visual presentations for your interpretation of data! 
+
+## Work descriptions continued... 
+
++ Embedding skills is one of the most important ways in which you can tailor your resume for a specific employer.
++ Detail previous work and projects that reflect your abilities.
+    + For example: “effectively communicating”, “critical thinking”, “working well with others”, “having determination and persistence”, and “good time management”
++ ONLY highlight abilities that you have! DO NOT include abilities that employers are looking for, but that you know you don't have.
+
+
+## Continued... 
+
+Make sure to highlight accomplishments, such as scholarships, grants, promotions, leadership positions, awards, presentations, and publications within your resume. You should also highlight work outcomes.
+
++ Answer who, what, when, and where.
++ Add specific titles.
++ Use action verbs when describing.
+    + For example: coordinated, executed, headed, organized, oversaw
++ Emphasize your role and how your work contributed to these outcomes.
+Hint: Do not use the word “we”
++ Make sure that all the information you are including is relevant to the experience needed for the job that you are applying for.
+
+## Adding Competencies to your resume 
+
+Competencies are: The capability to apply or use a set of related knowledge, skills, and abilities required to successfully perform “critical work functions” or tasks in a defined work setting.
+
+## To write a competency: 
+
++ Begin with a present-tense action verb (e.g., convert data to categories)
++ Each action verb requires an object (e.g., analyze resumes)
++ Each competency is measurable or observable (I decreased spending by 5%)
++ Base these on performance: don't describe daily duties, but rather the outcome of those duties. This says more about what you did and the impact it had. 
++ Don't use evaluative or relative adjectives (e.g., good, effective, etc)
++ Don't use evaluative or relative adverbs (e.g., quickly, slowly)
++ Say what you mean using necessary words (be concise) 
+
+## What NOT to include
+
++ Avoid including experiences that are unrelated to the position you are applying for. 
+    + If you have very little work experience, then you should include aspects of previous work that could translate over to the position you are applying for.
++ Avoid stretching the truth (e.g., changing your job title).
+    + Instead discuss how you can link certain KSAs to the job tasks in the position you are applying for.
 
