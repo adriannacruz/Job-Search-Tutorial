@@ -15,89 +15,108 @@ The purpose of this tutorial is to walk you through the steps of searching and a
 
 ![]() # Picture here 
 
-## Deciding what you want to do
+## Deciding What You Want to Do
 
 I/O Psychology is a diverse field that encompasses several different specialty areas. It is important to become familiar with these different areas to decide on a career path after graduation. 
 
-## Areas in I/O Psychology (Academia & Applied)
+## Academia & Consulting
 
-+Academia - This includes work within an academic setting (i.e., college or university) and usually requires a PhD.
-+Assistant/Associate/Full Professor
-+Adjunct Instructor or Lecturer (PhD not            required)
+Academia - This includes work within an academic setting (i.e., college or university) and usually requires a PhD.
 
-+Internal Consulting & External Consulting - This includes work intended to help organizations increase profits and employee efficiency by addressing and overcoming operational and strategic issues.
-+Research & Development Consultant/Specialist
-+Change Management Consultant
+    +Assistant/Associate/Full Professor
+    +Adjunct Instructor or Lecturer (PhD not required)
 
-## Areas in I/O
+Internal Consulting & External Consulting - This includes work intended to help organizations increase profits and employee efficiency by addressing and overcoming operational and strategic issues.
 
-+Human Relations - This includes work related to Human Resources functions (e.g., hiring, compensation, benefits, and conflict resolution).
-+Human Resources Management
-+Employee Relations Specialist
+    +Research & Development Consultant/Specialist
+    +Change Management Consultant
 
-+Data Analytics - This includes work related to collecting, inspecting, and translating data into useful information for organizations.
-+Behavioral Analyst
-+Research Analyst
+## Human Relations & Data Analytics
 
-+People Analytics - This includes work related to collecting, inspecting, and translating data on employees’ functions, challenges, and processes into useful information for organizations.
-+HRIS Specialist
-+Evaluation and Assessment Analyst
-+Engineering Psychologist
+Human Relations - This includes work related to Human Resources functions (e.g., hiring, compensation, benefits, and conflict resolution).
 
-## Areas in I/O
+    +Human Resources Management
+    +Employee Relations Specialist
 
-+Training and Development - This includes work intended to improve the knowledge and skills of employees for effective task performance.
-+Faculty Development Trainer
-+Training Coordinator
-+Strategy Development Professional
-+Workforce Insights Analyst
+Data Analytics - This includes work related to collecting, inspecting, and translating data into useful information for organizations.
 
-+Learning and Development - This includes work intended to provide new knowledge and skills to employees for learning purposes.
-+Learning and Development                           Specialist/Coordinator
-+Human Resources Development Specialist
+    +Behavioral Analyst
+    +Research Analyst
+    
+## People Analytics
 
-+Leadership Development - This includes work intended to improve employees’ leadership competencies and create a pipeline of future leaders.
-+Leadership Development Coach
-+Professional Business Development Consultant
+People Analytics - This includes work related to collecting, inspecting, and translating data on employees’ functions, challenges, and processes into useful information for organizations.
+    
+    +HRIS Specialist
+    +Evaluation and Assessment Analyst
+    +Engineering Psychologist
 
-## Areas in I/O
+## Training and Development
 
-+Organizational Development - This includes work intended to develop, improve, or change an organization’s strategies and processes.
-+Organizational Development Specialist
-+Diversity, Equity, & Inclusion Specialist
-+Change Management Specialist
+Training and Development - This includes work intended to improve the knowledge and skills of employees for effective task performance.
+    
+    +Faculty Development Trainer
+    +Training Coordinator
+    +Strategy Development Professional
+    +Workforce Insights Analyst
 
-+Performance Management - This includes work related to the process of ensuring that an organization’s output meets their goals efficiently and effectively.
-+Organizational Effectiveness Specialist
-+Team Development Specialist
-+Executive Coaching (additional training and        certification required)
+## Learning & Leadership Development
 
-## Areas in I/O
+Learning and Development - This includes work intended to provide new knowledge and skills to employees for learning purposes.
+    
+    +Learning and Development Specialist/Coordinator
+    +Human Resources Development Specialist
 
-+Personnel Selection - This includes work related to the assessment, interviewing, and selection of job candidates.
-+Staffing and Recruiting Specialist
-+Selection Systems Specialist
-+Test and Measurement Specialist
+Leadership Development - This includes work intended to improve employees’ leadership competencies and create a pipeline of future leaders.
+    
+    +Leadership Development Coach
+    +Professional Business Development Consultant
 
-+Talent Acquisition - This includes work related to the recruitment and hiring of job candidates.
-+Talent Acquisition Specialist
-+Talent Management Specialist
+## Organizational Development
+
+Organizational Development - This includes work intended to develop, improve, or change an organization’s strategies and processes.
+    
+    +Organizational Development Specialist
+    +Diversity, Equity, & Inclusion Specialist
+    +Change Management Specialist
+    
+## Performance Management
+
+Performance Management - This includes work related to the process of ensuring that an organization’s output meets their goals efficiently and effectively.
+    
+    +Organizational Effectiveness Specialist
+    +Team Development Specialist
+    +Executive Coaching (additional training and certification required)
+
+## Personnel & Talent Acquisition
+
+Personnel Selection - This includes work related to the assessment, interviewing, and selection of job candidates.
+    
+    +Staffing and Recruiting Specialist
+    +Selection Systems Specialist
+    +Test and Measurement Specialist
+
+Talent Acquisition - This includes work related to the recruitment and hiring of job candidates.
+    
+    +Talent Acquisition Specialist
+    +Talent Management Specialist
 
 ## Sources
 
 Sources for Job Titles:
-  +https://www.thechicagoschool.edu/insight/business/industrial-organizational-psychology-careers/
-  +https://www.allpsychologycareers.com/career/industrial-organizational-psychology-careers.html
+
++https://www.thechicagoschool.edu/insight/business/industrial-organizational-psychology-careers/
++https://www.allpsychologycareers.com/career/industrial-organizational-psychology-careers.html
 +https://www.siop.org/Career-Center/I-O-Career-Paths/Academia
 +https://www.siop.org/Career-Center/I-O-Career-Paths/Consulting
 
-Disclaimer: Always read the job description before applying because different organizations may use different job titles for the same field of work.oring to each job application
+Disclaimer: Always read the job description before applying because different organizations may use different job titles for the same field of work.
 
-## Skills and experiences 
+## Skills and Experiences 
 
 The skills and experiences displayed within your resume should be updated frequently. Important moments for updating your resume include at the end of each semester and upon completion of a project. This is because you may have developed and acquired new knowledge and skills during these experiences. Important experiences to update within your resume include class, research, and internships.
 
-## What to include
+## What to Include
 
 Knowledge, Skills, and Abilities (KSAs) should be reflected through work descriptions within your resume. When tailoring your resume for an employer, try to embed keywords from the job description within your work experiences’ descriptions. 
 
@@ -108,7 +127,7 @@ In your work descriptions…
     + For example: “Analyzed data in R and created visuals to present my findings.”
 This description demonstrates that you know how to use R, can analyze data, and can create visual presentations for your interpretation of data! 
 
-## Work descriptions continued... 
+## Work Descriptions Continued... 
 
 + Embedding skills is one of the most important ways in which you can tailor your resume for a specific employer.
 + Detail previous work and projects that reflect your abilities.
@@ -128,11 +147,11 @@ Make sure to highlight accomplishments, such as scholarships, grants, promotions
 Hint: Do not use the word “we”
 + Make sure that all the information you are including is relevant to the experience needed for the job that you are applying for.
 
-## Adding Competencies to your resume 
+## Adding Competencies to Your Resume 
 
 Competencies are: The capability to apply or use a set of related knowledge, skills, and abilities required to successfully perform “critical work functions” or tasks in a defined work setting.
 
-## To write a competency: 
+## To Write a Competency: 
 
 + Begin with a present-tense action verb (e.g., convert data to categories)
 + Each action verb requires an object (e.g., analyze resumes)
@@ -142,10 +161,9 @@ Competencies are: The capability to apply or use a set of related knowledge, ski
 + Don't use evaluative or relative adverbs (e.g., quickly, slowly)
 + Say what you mean using necessary words (be concise) 
 
-## What NOT to include
+## What NOT to Include
 
 + Avoid including experiences that are unrelated to the position you are applying for. 
     + If you have very little work experience, then you should include aspects of previous work that could translate over to the position you are applying for.
 + Avoid stretching the truth (e.g., changing your job title).
     + Instead discuss how you can link certain KSAs to the job tasks in the position you are applying for.
-
