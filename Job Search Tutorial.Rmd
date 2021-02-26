@@ -101,14 +101,14 @@ Talent Acquisition - This includes work related to the recruitment and hiring of
     +Talent Acquisition Specialist
     +Talent Management Specialist
 
-## Sources
+## Sources for Job Titles
 
 Sources for Job Titles:
 
-+https://www.thechicagoschool.edu/insight/business/industrial-organizational-psychology-careers/
-+https://www.allpsychologycareers.com/career/industrial-organizational-psychology-careers.html
-+https://www.siop.org/Career-Center/I-O-Career-Paths/Academia
-+https://www.siop.org/Career-Center/I-O-Career-Paths/Consulting
+    +https://www.thechicagoschool.edu/insight/business/industrial-organizational-psychology-careers/
+    +https://www.allpsychologycareers.com/career/industrial-organizational-psychology-careers.html
+    +https://www.siop.org/Career-Center/I-O-Career-Paths/Academia
+    +https://www.siop.org/Career-Center/I-O-Career-Paths/Consulting
 
 Disclaimer: Always read the job description before applying because different organizations may use different job titles for the same field of work.
 
